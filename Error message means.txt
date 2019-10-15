@@ -1,0 +1,2 @@
+
+Even-though method is not created for "total",the computed property is getter for the total value by default. total:fuction() is a setter, that is why it referenced during render.
